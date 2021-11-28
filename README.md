@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 - 👋 Hi, I’m **Bipro Bhadra**
 - 👀 I’m interested in **AI & ML**.
-- 🌱 I’m currently learning **Python**.
+- 🌱 I’m currently learning **Python & Preparing for Semester exams**.
 - 💞️ I’m looking for help with **VelocityX Documentation**.
 - 🤞  Ask me tech & circuit related stuff.
 - 📫 How to reach me : [LinkedIn - Bipro Bhadra](https://www.linkedin.com/in/bipro-bhadra-a460061bb/) , [Instagram - b._.ip](https://www.instagram.com/b._.i_p/)
