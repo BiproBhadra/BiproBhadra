@@ -7,11 +7,10 @@
 ## 🙋‍♂️ About Me
 - 👋 Hi, I’m **Bipro Bhadra**
 - 👀 I’m interested in **Semiconductor Industry**.
-- 🌱 I’m currently learning **Fundamentals of Circuits & Preparing for Semester exams**.
-- 💞️ I’m looking for help with **VelocityX Documentation**.
-- 🤞  Ask me tech & circuit related stuff.
+- 🌱 I’m currently learning **Fundamentals of Circuit Designing & Preparing for Semester exams**.
+- 🤞 Ask me tech & circuit related stuff.
 - 📫 How to reach me : [LinkedIn - Bipro Bhadra](https://www.linkedin.com/in/bipro-bhadra-a460061bb/) , [Instagram - b._.ip](https://www.instagram.com/b._.i_p/)
-- 😎 Pronouns : He/His
+- 😎 Pronouns : He/Him
 - 🤡 Fun Fact : I spend almost 12 hours listening songs everyday. 
 
 
